@@ -46,11 +46,11 @@ I’m a Backend developer. I specialise in building robust backends that do all 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik-sys&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pratik-sys&show_icons=true&count_private=true&hide_border=true&icons=true&theme=dracula" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-sys&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-sys&hide_border=true&layout=compact&icons=true&theme=dracula" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -66,6 +66,3 @@ I’m a Backend developer. I specialise in building robust backends that do all 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
