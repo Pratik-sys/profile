@@ -9,7 +9,7 @@
 
 ### Glad to see you here!
 
-🛠️ Backend Developer | Architecting scalable and reliable server-side systems | Proficient in Python, Java | Passionate about optimizing database performance and crafting robust APIs | Currently delving into advanced topics, I'm exploring how Spring Boot seamlessly integrates with cloud-native features and robust security measures | Additionally, I'm diving into the intricacies of cloud-native architectures, such as microservices and serverless, and understanding how Spring Boot facilitates their implementation | Lover of automation and continuous integration | Devoted to code quality and performance optimization | Let's architect the backend together and power up our applications!
+🛠️ Backend Developer | Architecting scalable and reliable server-side systems | Proficient in Python and Java | Passionate about optimizing database performance and crafting robust APIs | Currently delving into advanced topics of microservices and system designs. | I'm exploring how Spring Boot seamlessly integrates with cloud-native features and robust security measures | Additionally, I'm diving into the intricacies of cloud-native architectures, such as microservices and serverless, and understanding how Spring Boot facilitates their implementation | Lover of automation and continuous integration | Devoted to code quality and performance optimization | Let's architect the backend together and power up our applications!
 
 <br/>
 
